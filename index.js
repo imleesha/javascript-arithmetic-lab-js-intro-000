@@ -33,5 +33,5 @@ function decrement(n) {
 return --n;
 }
 function makeInt(n) {
-  return "n";
+  return n;
 }
