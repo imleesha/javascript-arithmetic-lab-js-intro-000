@@ -26,9 +26,9 @@ function divide(a, b) {
 var answer = a / b;
 return answer;
 }
-function increment(+n) {
-return n;
+function increment(n) {
+return ++n;
 }
-function decrement(-n) {
-return n;
+function decrement(n) {
+return --n;
 }
